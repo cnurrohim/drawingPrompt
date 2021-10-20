@@ -1,3 +1,3 @@
-# creature_creation_station
+# creature creation station
 
 generate character drawing prompt based on brett bean's monster creation station
